@@ -53,3 +53,61 @@ Algumas coisas que pretendo adicionar conforme eu aprender novos conteúdos:
 ---
 
 Projeto desenvolvido durante meus estudos de Python.
+
+
+# Rock, Paper, Scissors
+
+A simple **Rock, Paper, Scissors** game made in Python, where the player faces Ted, who makes his choices randomly.
+
+## How it works
+
+The player chooses one of three options:
+
+* Rock
+* Paper
+* Scissors
+
+After the player's choice, the computer randomly chooses an option and the program shows the result of the match.
+
+## Technologies used
+
+* Python
+* `random` library
+
+## How to run
+
+1. Have Python installed on your computer.
+2. Download or clone this repository.
+3. Open the project folder in VS Code.
+4. Run the Python file through the terminal:
+
+```bash
+python pedra-papel-tesoura.py
+```
+
+## What I practiced in this project
+
+This project was created to practice some basic Python concepts, such as:
+
+* `if`, `elif` and `else`
+* `input()`
+* Lists
+* `random.choice()`
+* Variables
+* Comparisons
+* F-strings
+
+## Future improvements
+
+Some things I plan to add as I learn new concepts:
+
+* Scoring system
+* Multiple rounds
+* Option to play again
+* Interface improvements
+* Code organization using functions
+
+---
+
+Project developed during my Python studies.
+
