@@ -25,7 +25,7 @@ Depois da escolha, o computador escolhe uma opção aleatória e o programa most
 4. Execute o arquivo Python pelo terminal:
 
 ```bash
-python nome_do_arquivo.py
+python pedra-papel-tesoura.py
 ```
 
 ## O que pratiquei neste projeto
