@@ -51,11 +51,11 @@ print('                  RESULTADO')
 print(linha)
 print(f' Escolha do Ted: {computador}')
 print(f' Sua escolha: {escolha}')
-if escolha == 'Pedra' and computador == 'tesoura':
+if escolha == 'Pedra' and computador == 'Tesoura':
     print(' O vencedor é você!')
-elif escolha == 'Papel' and computador == 'pedra':
+elif escolha == 'Papel' and computador == 'Pedra':
     print(' O vencedor é você!')
-elif escolha == 'Tesoura' and computador == 'papel':
+elif escolha == 'Tesoura' and computador == 'Papel':
     print(' O vencedor é você!')
 elif escolha == computador:
     print(' O jogo deu empate!')
